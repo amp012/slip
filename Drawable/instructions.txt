@@ -1,0 +1,5 @@
+how to add drawble
+ --> res --> drawble --> new --> add vector asset
+ 
+ how to add string ,dimen and color file
+ --> res --> values --> add
